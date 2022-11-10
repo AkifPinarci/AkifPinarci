@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Akif
+### Hi there 👋 My name is Mehmet Akif Pinarci
 
 Software developer specializing in
 
