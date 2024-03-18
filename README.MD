@@ -2,7 +2,7 @@
 
 Software developer specializing in
 
-```React, Redux Toolkit, Nodejs, MySQL, Java, and Python```
+```React, Redux Toolkit, Nodejs, MySQL, Java, MongoDB and Python```
 
 <!--
 **akifpinarci/akifpinarci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
