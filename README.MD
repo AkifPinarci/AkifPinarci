@@ -4,6 +4,11 @@ Software developer specializing in
 
 ```Node.js, Express.js, Javascript, React.js, Redux Toolkit, Postgresql, MongoDB, Prisma, and Python```
 
+- 🔭 I’m currently working on Payment Microservice and Languge Learning Platform
+- 🌱 I’m currently learning TypeScript
+- 🤔 I’m looking for help to land a Backend Software Engineer Job
+- 📫 How to reach me: mehmetakifpinarci@gmail.com
+
 <!--
 **akifpinarci/akifpinarci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
