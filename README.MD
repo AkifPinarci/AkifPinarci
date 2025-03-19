@@ -5,7 +5,7 @@ Software developer specializing in
 ```Javascript, TypeScript, Python, Node.js, Express.js, Django, FastApi, React.js, Redux, Postgresql, MongoDB, and Prisma```
 
 - 🔭 I’m currently working on Payment Microservice and Languge Learning Platform
-- 🌱 I’m currently learning Google Cloud. 
+- 🌱 I’m currently learning Google Cloud & Next.js. 
 - 🤔 I’m looking for help to land a Software Engineer Job
 - 📫 How to reach me: mehmetakifpinarci.ger@gmail.com
 
